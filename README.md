@@ -1,2 +1,2 @@
-# class-31-project
-project
+# Project 31 : Plinko
+Project 31 for WhiteHat
